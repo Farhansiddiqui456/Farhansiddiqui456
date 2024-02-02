@@ -60,5 +60,5 @@ Get in touch for idea exchange, discover efficient coding tips, and embark on a 
 # <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Farhansiddiqui456">
-<img src="https://github-readme-stats.vercel.app/api?username=sajeedali&show_icons=true&hide=contribs&count_private=true&title_color=028A0F&text_color=ffffff&icon_color=028A0F&bg_color=000000&hide_border=true&show_icons=true" alt="sajeedali's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Farhansiddiqui456&show_icons=true&hide=contribs&count_private=true&title_color=028A0F&text_color=ffffff&icon_color=028A0F&bg_color=000000&hide_border=true&show_icons=true" alt="Farhansiddiqui456 GitHub stats" />
 </a>
