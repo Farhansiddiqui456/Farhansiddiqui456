@@ -1,4 +1,4 @@
-<img src="https://github.com/sajeedali/sajeedali/assets/110982067/4ec04638-339d-4a48-875c-699ac6ade1a3" alt="my banner">
+
 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=50&duration=2200&pause=500&color=FFF&center=true&vCenter=true&height=75&width=1300px&lines=Aspiring+Web+Developer🌐💻;Learning+enthusiast📖;)
@@ -27,24 +27,18 @@ Get in touch for idea exchange, discover efficient coding tips, and embark on a 
     <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="40" height="40" />
   </a>
-    <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="40" height="40" />
-  </a>
+ 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" />
   </a>
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" />
   </a>
-   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="40" height="40" />
-  </a>
+  
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" height="40" />
   </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="40" height="40" />
-  </a>
+ 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" />
   </a>
@@ -53,20 +47,18 @@ Get in touch for idea exchange, discover efficient coding tips, and embark on a 
 
 # <b>Reach me at 👇:-</b>
 <p align="left">
-    <a href="https://www.github.com/sajeedali" target="_blank" rel="noreferrer">
+    <a href="https://www.github.com/Farhansiddiqui456" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" />
     </a> 
-    <a href="https://www.linkedin.com/in/sajeed-ali-shaikh-664707171" target="_blank" rel="noreferrer">
+    <a href="www.linkedin.com/in/farhan-siddiqui-032932265" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" />
 </a> 
-    <a href="https://www.twitter.com/saj33dali" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="40" height="40" />
-    </a>
+   
 </p>
 
 
 # <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/sajeedali">
+<a href="http://www.github.com/Farhansiddiqui456">
 <img src="https://github-readme-stats.vercel.app/api?username=sajeedali&show_icons=true&hide=contribs&count_private=true&title_color=028A0F&text_color=ffffff&icon_color=028A0F&bg_color=000000&hide_border=true&show_icons=true" alt="sajeedali's GitHub stats" />
 </a>
