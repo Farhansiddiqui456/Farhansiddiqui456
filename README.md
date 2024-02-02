@@ -1,4 +1,4 @@
-### Hello, my name is Farhan Siddiqui
+### <b>Hello, my name is Farhan Siddiqui </b>
 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=50&duration=2200&pause=500&color=FFF&center=true&vCenter=true&height=75&width=1300px&lines=Aspiring+Web+Developer🌐💻;Learning+enthusiast📖;)
